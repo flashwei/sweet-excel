@@ -1,0 +1,10 @@
+*.iml
+*.idea
+target
+gradle
+.DS_Store
+application-dev.yml
+.project
+.settings/
+.classpath
+.vscode/
